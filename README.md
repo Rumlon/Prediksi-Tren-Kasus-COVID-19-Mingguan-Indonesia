@@ -1,4 +1,3 @@
-[Hari29_README.md](https://github.com/user-attachments/files/31673031/Hari29_README.md)
 # Prediksi Tren Kasus COVID-19 Mingguan Indonesia
 
 Proyek belajar CRISP-DM 30 hari — dari nol sampai aplikasi yang bisa dijalankan (Streamlit). Memprediksi apakah kasus COVID-19 mingguan di Indonesia akan **naik, turun, atau stabil** minggu depan, berdasarkan data historis kasus dan vaksinasi.
